@@ -1,4 +1,4 @@
-# Lab 2  
+# Git Project
 
 In This repo we trained well to use git 
 
